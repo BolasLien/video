@@ -1,4 +1,4 @@
-## L
+## Link
 [Demo](https://bolaslien.github.io/video/index.html)
 [Github](https://github.com/BolasLien/video)
 
