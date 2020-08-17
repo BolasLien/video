@@ -1,24 +1,13 @@
-# video
+## L
+[Demo](https://bolaslien.github.io/video/index.html)
+[Github](https://github.com/BolasLien/video)
 
-## Project setup
-```
-npm install
-```
+## 頁面說明
+### 首頁
+![](https://i.imgur.com/ZAEBHqa.jpg)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### 收藏頁
+![](https://i.imgur.com/Rb0aiTM.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 播放頁
+![](https://i.imgur.com/K1tOIUd.png)
